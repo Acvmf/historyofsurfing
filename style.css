@@ -1,0 +1,19 @@
+body{
+  background-image: url("pipeline.jpg");
+
+}
+h1{
+  color: chartreuse;
+}
+
+p{
+  color: gold;
+}
+#blurb{
+  font-style: italic;
+}
+
+img{
+  width: 200px;
+  float: left;
+}
