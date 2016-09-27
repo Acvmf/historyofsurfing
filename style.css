@@ -6,17 +6,23 @@ h1{
   color: chartreuse;
   text-align: center;
 }
+h2{
+  text-align: center;
+}
 p{
   color: gold;
   font-family: Alike Angular;
 }
 #blurb{
   font-style: italic;
-  background-color: black;
+  background-color: rgba(0,0,0,0.5);
+
 }
 img{
   width: 200px;
   float: left;
+  border: dashed;
+  border-color: rebeccapurple;
 }
 table{
   font-family: Allura;
