@@ -1,6 +1,6 @@
 body{
   background-image: url("pipeline.jpg");
-
+  background-repeat: round;
 }
 h1{
   color: chartreuse;
@@ -11,6 +11,7 @@ p{
 }
 #blurb{
   font-style: italic;
+  background-color: black;
 }
 
 img{
