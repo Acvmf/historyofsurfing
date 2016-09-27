@@ -4,17 +4,20 @@ body{
 }
 h1{
   color: chartreuse;
+  text-align: center;
 }
-
 p{
   color: gold;
+  font-family: Alike Angular;
 }
 #blurb{
   font-style: italic;
   background-color: black;
 }
-
 img{
   width: 200px;
   float: left;
+}
+table{
+  font-family: Allura;
 }
